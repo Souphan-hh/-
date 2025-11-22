@@ -1,0 +1,5 @@
+{
+  "name": "Ningbo Winter Trail Guide",
+  "description": "A smart family hiking planner for the Ningbo area, featuring real-time trail research via Gemini Search Grounding, route recommendations, and safety checklists for winter trekking with children.",
+  "requestFramePermissions": []
+}
